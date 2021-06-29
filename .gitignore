@@ -1,4 +1,7 @@
-docker-compose.yml
-docker
-flarum.env
+#docker-compose.yml
+#docker
+#flarum.env
 test.sh
+
+docker/flarum
+docker/mysql
